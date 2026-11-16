@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-random-seed"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-random-seed component - init_system"
+
+[lib]
+name = "systemd_random_seed"
+path = "src/lib.rs"
