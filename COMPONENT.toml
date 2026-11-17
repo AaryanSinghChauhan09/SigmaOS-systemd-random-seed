@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-random-seed"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-random-seed component"
+description = "systemd random seed"
 upstream = []
 
 [contract]
